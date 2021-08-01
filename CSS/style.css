@@ -14,7 +14,6 @@ header h1{
     color: #EEEDE7;
 position: relative;
 font-size: 1.8vw;
-/* padding-top: 50px; */
 }
 header img{
     width: 3.5vw;
@@ -58,4 +57,5 @@ main p{
     font-size: 1vw;
     z-index: 2;
     top: -12.5vw;
+    margin: 0vw 39.5vw 0vw 39.75vw;
 }
